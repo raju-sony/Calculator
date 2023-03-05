@@ -15,12 +15,12 @@ The following website contains **Calculators**, which provides a -
 
 # Volume, Mass and Length Calculator
 
-![Calculator](vmlcalculator)
+![Calculator](vmlcalculator.png)
 
 # Temperature Calculator
 
-![Calculator](temperaturecalculator)
+![Calculator](temperaturecalculator.png)
 
-#Time Calculator
+# Time Calculator
 
-![Calculator](timecalculator)
+![Calculator](timecalculator.png)
