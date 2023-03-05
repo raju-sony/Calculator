@@ -1,6 +1,6 @@
 # Calculator
 
-[Educalculate](www.educalculte.000webhostapp.com)
+[Educalculate](www.educalculate.000webhostapp.com)
 
 The following website contains **Calculators**, which provides a -
 
